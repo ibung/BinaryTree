@@ -1,8 +1,8 @@
 CC = gcc
 CFLAGS = -Wall -Wextra
 TARGET = tes
-SOURCES = main.c BinaryTree.c
-HEADERS = BinaryTree.h
+SOURCES = main.c Ibnu.c
+HEADERS = Ibnu.h
 
 all: $(TARGET)
 
